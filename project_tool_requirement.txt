@@ -1,0 +1,15 @@
+tools required
+--------------
+Database 
+running environment
+IDE
+AWS
+visualization tool
+table source
+project management tool
+
+naming conventions(for module,package,file,class,method)
+programming language 
+query conventions
+table name
+what should be approach if there is NOSQL database in design of module,package,file,class,method.
